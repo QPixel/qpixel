@@ -1,6 +1,13 @@
 ### Hey, I'm QPixel.
 
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+I am a software developer who has experience across almost all of the computing landscape.
+
+I usually stick around web dev stuff, but I have no issue adventuring out to native software.
+
+You can contact me at (contact@rileyy.dev)
+
+
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 <!--
 **QPixel/qpixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
