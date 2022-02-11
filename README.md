@@ -1,9 +1,5 @@
-### Hey, I'm QPixel.
+### hey, i'm Riley.
 
-I am a software developer who has experience across almost all of the computing landscape.
-
-I usually stick around web dev stuff, but I have no issue adventuring out to native software.
-
-You can contact me at (contact@rileyy.dev)
+I am a software developer who has too much free time on their hands. I'm familar with a lot of different concepts from different parts of the computing landscape. I enjoy building products that perform and have great UX.
 
 [![metrics](https://github.com/QPixel/qpixel/blob/main/github-metrics.svg)](https://qpixel.me)
